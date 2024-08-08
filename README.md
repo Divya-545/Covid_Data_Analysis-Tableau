@@ -1,5 +1,6 @@
 # Covid_Data_Analysis-Tableau
-Overview
+Overview:
+
 This project involves analyzing COVID-19 data to gain insights into case trends and evaluate various regression models. The dataset includes information on COVID-19 cases, deaths, vaccinations, and other related metrics over time. The goal is to preprocess the data, analyze correlations, and build predictive models to forecast cumulative cases. Additionally, visualizations are created using Tableau for interactive exploration
 
 Description
