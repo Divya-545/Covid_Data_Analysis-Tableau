@@ -30,8 +30,6 @@ Model Comparison: Compares the performance of different models using bar plots f
 
 
 Tableau Visualization
-Interactive Dashboards: Visualizations created in Tableau to explore trends and patterns interactively. The Tableau workbook (COVID19_Visualization.twbx) includes:
-Time series plots of daily cases, deaths, and vaccinations.
-Heatmaps of case and death trends by region and age group.
-Correlation and distribution plots for different metrics.
-Usage: Open the COVID19_Visualization.twbx file in Tableau Desktop or Tableau Public to explore interactive visualizations. You can filter data, drill down into specific metrics, and create custom views.
+Interactive Dashboards: Visualizations created in Tableau to explore trends and patterns interactively. The Tableau workbook (Data_visualization.twbx) includes:
+
+Open the Data_visualization.twbx file in Tableau Desktop or Tableau Public to explore interactive visualizations. You can filter data, drill down into specific metrics, and create custom views.
