@@ -31,6 +31,6 @@ Model Comparison: Compares the performance of different models using bar plots f
 
 
 Tableau Visualization
-Interactive Dashboards: Visualizations created in Tableau to explore trends and patterns interactively. The Tableau workbook (Data_visualization.twb) includes:
+: Visualizations created in Tableau to explore trends and patterns interactively. The Tableau workbook (Data_visualization.twb) includes:
 
 Open the Data_visualization.twb file in Tableau Desktop or Tableau Public to explore interactive visualizations. You can filter data, drill down into specific metrics, and create custom views.
